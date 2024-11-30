@@ -28,7 +28,6 @@ A modern Role-Based Access Control (RBAC) admin dashboard built with React, Type
   - Clean and intuitive interface
   - Real-time updates
   - Smooth transitions
-
 ## Project Structure
 
 ```

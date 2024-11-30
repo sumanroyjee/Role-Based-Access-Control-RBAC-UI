@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/dashboard.tsx","./src/components/layout.tsx","./src/components/permissionlist.tsx","./src/components/rolelist.tsx","./src/components/userlist.tsx","./src/data/mockdata.ts","./src/types/rbac.ts"],"errors":true,"version":"5.6.3"}
